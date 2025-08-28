@@ -1,0 +1,10 @@
+2025-08-28 23:16:16,568 - HandTrackingController - INFO - [logger.py:69] - Logger initialized: HandTrackingController
+2025-08-28 23:16:16,568 - HandTrackingController - INFO - [logger.py:70] - Log files: logs\handtrackingcontroller_20250828.log, logs\handtrackingcontroller_errors_20250828.log
+2025-08-28 23:16:16,568 - HandTrackingController - INFO - [main.py:767] - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:19:55,593 - HandTrackingController - INFO - [main.py:750] - Closed youtube controller
+2025-08-28 23:19:55,593 - HandTrackingController - INFO - [main.py:756] - Application cleanup completed
+2025-08-28 23:20:43,373 - HandTrackingController - INFO - [logger.py:69] - Logger initialized: HandTrackingController
+2025-08-28 23:20:43,373 - HandTrackingController - INFO - [logger.py:70] - Log files: logs\handtrackingcontroller_20250828.log, logs\handtrackingcontroller_errors_20250828.log
+2025-08-28 23:20:43,373 - HandTrackingController - INFO - [main.py:767] - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:22:58,792 - HandTrackingController - INFO - [main.py:750] - Closed youtube controller
+2025-08-28 23:22:58,792 - HandTrackingController - INFO - [main.py:756] - Application cleanup completed

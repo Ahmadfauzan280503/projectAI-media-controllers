@@ -1,0 +1,425 @@
+2025-08-23 14:13:36 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 14:13:36 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 14:14:44 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 14:19:04 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 14:19:04 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 14:19:25 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 14:24:43 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 14:24:43 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 14:25:06 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 14:29:04 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 14:29:04 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 14:29:28 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 14:46:52 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 14:46:52 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 14:47:12 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 15:11:47 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 15:11:47 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 15:12:07 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 15:12:24 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 15:12:24 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 15:12:46 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 15:18:13 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 17:50:03 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 17:50:03 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 18:18:03 - HandTrackingController - INFO - main:94 - PAUSE command sent to youtube
+2025-08-23 18:18:13 - HandTrackingController - INFO - main:94 - PAUSE command sent to spotify
+2025-08-23 18:18:24 - HandTrackingController - INFO - main:94 - PAUSE command sent to tiktok
+2025-08-23 18:39:50 - HandTrackingController - INFO - main:233 - Closed youtube controller
+2025-08-23 18:39:52 - HandTrackingController - INFO - main:233 - Closed spotify controller
+2025-08-23 18:39:54 - HandTrackingController - INFO - main:233 - Closed tiktok controller
+2025-08-23 18:39:54 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-23 20:39:15 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-23 20:39:15 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-23 20:41:16 - HandTrackingController - INFO - main:94 - PAUSE command sent to youtube
+2025-08-23 20:42:53 - HandTrackingController - INFO - main:91 - PLAY command sent to youtube
+2025-08-23 20:44:15 - HandTrackingController - INFO - main:97 - VOLUME UP command sent to youtube
+2025-08-23 20:46:13 - HandTrackingController - INFO - main:94 - PAUSE command sent to youtube
+2025-08-23 20:52:07 - HandTrackingController - INFO - main:91 - PLAY command sent to youtube
+2025-08-23 20:54:55 - HandTrackingController - INFO - main:94 - PAUSE command sent to youtube
+2025-08-23 21:01:22 - HandTrackingController - INFO - main:97 - VOLUME UP command sent to youtube
+2025-08-23 21:01:43 - HandTrackingController - INFO - main:233 - Closed youtube controller
+2025-08-23 21:01:43 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-24 02:50:16 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 02:50:16 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 02:51:25 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-24 02:52:07 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 02:52:07 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 02:54:04 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 02:54:04 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 02:54:48 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-24 03:12:41 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 03:12:41 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 03:13:05 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-24 04:02:07 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 04:02:07 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 04:02:30 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-24 04:04:33 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-24 04:04:33 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-24 04:04:54 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-25 01:04:48 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-25 01:04:48 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-25 01:05:43 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-25 01:21:33 - HandTrackingController - INFO - logger:77 - Logging initialized. Log file: logs/app.log
+2025-08-25 01:21:33 - HandTrackingController - INFO - main:114 - Starting Hand Tracking Media Controller
+2025-08-25 01:21:54 - HandTrackingController - INFO - main:237 - Application terminated
+2025-08-25 02:45:02,254 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 02:45:02,256 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 02:46:04,774 - HandTrackingController - WARNING - Spotify controller initialization timed out
+2025-08-25 02:46:34,780 - HandTrackingController - WARNING - TikTok controller initialization timed out
+2025-08-25 02:47:20,251 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:47:21,753 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:47:25,846 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:47:26,462 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:47:34,463 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:47:42,077 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 02:47:44,043 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:47:44,664 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:47:50,230 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:47:50,928 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:48:05,485 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 02:48:05,485 - HandTrackingController - INFO - Application cleanup completed
+2025-08-25 02:48:46,837 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 02:48:46,837 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 02:50:28,066 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:50:32,074 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 02:50:33,108 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:00,215 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 02:51:01,209 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:02,747 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:51:05,628 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:06,651 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:10,837 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:13,984 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:18,417 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 02:51:20,457 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:22,704 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:51:24,128 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:29,403 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:38,542 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:39,124 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:42,312 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:51:43,781 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:44,869 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:48,218 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:51:49,754 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:50,362 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:52,411 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 02:51:53,414 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:57,220 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:51:57,834 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 02:51:58,813 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 02:52:03,498 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 02:52:04,912 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 02:52:20,230 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 02:52:20,230 - HandTrackingController - INFO - Application cleanup completed
+2025-08-25 19:04:05,295 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 19:04:05,295 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 19:05:48,651 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:06:17,620 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:06:34,875 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:06:40,199 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:07:02,058 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:07:14,364 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:07:26,960 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 19:07:26,960 - HandTrackingController - INFO - Application cleanup completed
+2025-08-25 19:09:47,500 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 19:09:47,501 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 19:11:34,704 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:12:44,546 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:13:22,509 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:13:37,020 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:13:58,198 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:13:59,196 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:14:07,766 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:14:17,484 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:14:18,069 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:14:19,950 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:14:20,964 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:14:32,230 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:14:39,301 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:14:40,874 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:14:43,197 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:14:45,503 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:14:49,172 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:14:49,745 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:14:57,364 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:14:58,385 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:15:01,410 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:15:16,807 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:15:25,329 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:15:29,546 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:15:35,667 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:15:36,847 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:15:38,436 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:15:41,108 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:15:45,937 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:15:46,521 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:15:48,609 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:15:49,629 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:15:53,395 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:15:53,976 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:15:55,777 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:15:59,524 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:16,425 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:16:20,568 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:26,448 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:16:31,185 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:35,244 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:16:36,670 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:39,060 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:16:40,679 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:16:41,899 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:44,966 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:16:45,531 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:54,549 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:16:55,165 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:16:57,398 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:16:58,920 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:17:03,260 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:11,998 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:17:12,581 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:14,083 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:17:15,929 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:21,983 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:17:24,029 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:27,051 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:29,109 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:31,132 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:33,181 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:35,204 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:37,260 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:38,251 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:17:39,258 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:40,293 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:42,292 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:44,330 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:45,354 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:46,382 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:47,400 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:49,412 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:50,438 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:52,475 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:53,486 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:54,512 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:55,525 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:17:57,581 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:17:58,598 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:01,681 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:02,690 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:04,729 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:05,721 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:07,757 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:08,757 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:10,808 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:13,835 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:27,911 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:18:32,410 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:33,378 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:18:38,145 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:40,241 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:42,225 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:43,290 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:44,274 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:45,310 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:18:46,340 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:47,325 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:48,474 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:18:49,390 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:18:50,400 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:18:51,436 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:19:05,263 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:19:35,462 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:19:38,842 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:19:40,256 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:19:42,240 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:19:43,302 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:20:00,034 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:20:01,019 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:20:02,217 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:20:18,999 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:20:21,033 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:20:22,057 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:20:23,115 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:20:25,105 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:20:26,151 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:20:28,196 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:20:46,101 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:26:48,473 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:27:12,661 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:27:24,435 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:27:26,138 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:27:27,169 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:27:28,137 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:27:51,108 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:27:52,117 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:29:44,497 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:29:50,057 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:31:40,299 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:33:34,027 - HandTrackingController - INFO - NEXT command sent to youtube
+2025-08-25 19:34:02,868 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:34:45,499 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:35:00,961 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:35:15,011 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:35:45,963 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:35:54,566 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:35:56,581 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:35:58,631 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:36:00,614 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:36:02,714 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:36:03,715 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:36:16,631 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:36:58,831 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:36:59,475 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:37:41,015 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:37:42,202 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:38:01,270 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:38:05,470 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:38:08,556 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:38:09,539 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:38:13,582 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:38:16,705 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:38:18,670 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:38:21,771 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:38:23,763 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:38:27,896 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:38:28,894 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:44:12,502 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:44:14,777 - HandTrackingController - INFO - PLAY command sent to youtube
+2025-08-25 19:44:16,710 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:44:21,395 - HandTrackingController - INFO - PREVIOUS command sent to youtube
+2025-08-25 19:44:36,918 - HandTrackingController - INFO - VOLUME DOWN command sent to youtube
+2025-08-25 19:44:57,421 - HandTrackingController - INFO - PAUSE command sent to youtube
+2025-08-25 19:48:40,010 - HandTrackingController - INFO - VOLUME UP command sent to youtube
+2025-08-25 19:48:49,536 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 19:48:49,536 - HandTrackingController - INFO - Application cleanup completed
+2025-08-25 23:20:07,803 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 23:20:07,803 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 23:20:41,561 - HandTrackingController - WARNING - YouTube controller initialization timed out
+2025-08-25 23:21:41,750 - HandTrackingController - ERROR - Error executing thumbs_up on youtube: 'NoneType' object has no attribute 'volume_up'
+2025-08-25 23:21:49,730 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:21:50,763 - HandTrackingController - ERROR - Error executing closed_fist on youtube: 'NoneType' object has no attribute 'pause'
+2025-08-25 23:21:51,774 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:21:52,810 - HandTrackingController - ERROR - Error executing thumbs_up on youtube: 'NoneType' object has no attribute 'volume_up'
+2025-08-25 23:21:53,835 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:21:57,865 - HandTrackingController - ERROR - Error executing thumbs_up on youtube: 'NoneType' object has no attribute 'volume_up'
+2025-08-25 23:21:58,868 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:21:59,901 - HandTrackingController - ERROR - Error executing thumbs_up on youtube: 'NoneType' object has no attribute 'volume_up'
+2025-08-25 23:22:00,905 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:22:01,917 - HandTrackingController - ERROR - Error executing thumbs_up on youtube: 'NoneType' object has no attribute 'volume_up'
+2025-08-25 23:22:02,924 - HandTrackingController - ERROR - Error executing open_palm on youtube: 'NoneType' object has no attribute 'play'
+2025-08-25 23:22:06,726 - HandTrackingController - ERROR - Error executing closed_fist on youtube: 'NoneType' object has no attribute 'pause'
+2025-08-25 23:22:12,140 - HandTrackingController - ERROR - Error executing peace_sign on youtube: 'NoneType' object has no attribute 'next_track'
+2025-08-25 23:22:13,710 - HandTrackingController - ERROR - Error executing point_up on youtube: 'NoneType' object has no attribute 'previous_track'
+2025-08-25 23:22:15,088 - HandTrackingController - ERROR - Error executing peace_sign on youtube: 'NoneType' object has no attribute 'next_track'
+2025-08-25 23:22:16,110 - HandTrackingController - ERROR - Error executing closed_fist on youtube: 'NoneType' object has no attribute 'pause'
+2025-08-25 23:22:20,299 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 23:22:20,299 - HandTrackingController - INFO - Application cleanup completed
+2025-08-25 23:22:45,062 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-25 23:22:45,062 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-25 23:23:18,501 - HandTrackingController - WARNING - YouTube controller initialization timed out
+2025-08-25 23:23:57,663 - HandTrackingController - INFO - Closed youtube controller
+2025-08-25 23:23:57,663 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 00:43:38,234 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 00:43:38,237 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 00:44:54,032 - HandTrackingController - WARNING - YouTube controller initialization timed out
+2025-08-26 00:45:46,579 - HandTrackingController - ERROR - Error executing peace_sign on youtube: 'NoneType' object has no attribute 'next_track'
+2025-08-26 00:45:59,703 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 00:45:59,703 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 03:36:28,366 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 03:36:28,368 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 03:36:59,467 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 03:37:59,891 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 03:37:59,891 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 03:45:36,837 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 03:45:36,840 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 03:46:21,059 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 03:47:50,635 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 03:47:50,635 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 03:48:54,974 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 03:48:54,974 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 03:49:22,718 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 03:49:47,603 - HandTrackingController - ERROR - Spotify controller initialization failed: Spotify initialization failed: Failed to initialize Spotify WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 03:50:14,407 - HandTrackingController - ERROR - TikTok controller initialization failed: TikTok initialization failed: Failed to initialize TikTok WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 03:50:14,407 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 03:52:05,445 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 03:52:05,445 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 03:53:39,577 - HandTrackingController - ERROR - Error executing point_up on youtube: 'YouTubeController' object has no attribute 'previous_track'
+2025-08-26 03:54:09,456 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 03:54:09,456 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:00:37,322 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:00:37,323 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:01:05,510 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:01:43,395 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 04:01:43,395 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:08:27,994 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:08:27,994 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:08:56,616 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:12:23,471 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 04:12:23,471 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:12:53,416 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:12:53,416 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:13:22,145 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:13:46,925 - HandTrackingController - ERROR - Spotify controller initialization failed: Spotify initialization failed: Failed to initialize Spotify WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:14:11,910 - HandTrackingController - ERROR - TikTok controller initialization failed: TikTok initialization failed: Failed to initialize TikTok WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:14:11,910 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:34:00,939 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:34:00,939 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:34:29,347 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:35:02,643 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 04:35:02,643 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:35:21,768 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:35:21,768 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:35:51,414 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:36:35,771 - HandTrackingController - INFO - Closed youtube controller
+2025-08-26 04:36:35,771 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 04:46:53,899 - HandTrackingController - INFO - Logging initialized. Log file: logs\app.log
+2025-08-26 04:46:53,915 - HandTrackingController - INFO - Starting Hand Tracking Media Controller
+2025-08-26 04:47:22,531 - HandTrackingController - ERROR - YouTube controller initialization failed: YouTube initialization failed: Failed to initialize YouTube WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:47:46,803 - HandTrackingController - ERROR - Spotify controller initialization failed: Spotify initialization failed: Failed to initialize Spotify WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:48:10,975 - HandTrackingController - ERROR - TikTok controller initialization failed: TikTok initialization failed: Failed to initialize TikTok WebDriver after 3 attempts: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 04:48:10,975 - HandTrackingController - INFO - Application cleanup completed
+2025-08-26 05:14:52 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 05:14:52 - MediaController - INFO - run:564 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 05:15:15 - MediaController - ERROR - _safe_init_controller:271 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 05:16:55 - MediaController - INFO - cleanup:555 - Closed youtube controller
+2025-08-26 05:16:55 - MediaController - INFO - cleanup:559 - Application cleanup completed
+2025-08-26 05:17:06 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 05:17:06 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 05:17:13 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 05:17:45 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 05:17:45 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 05:17:49 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 05:17:49 - MediaController - ERROR - _safe_init_controller:216 - Spotify controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 05:17:49 - MediaController - ERROR - _safe_init_controller:216 - TikTok controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 05:17:49 - MediaController - INFO - cleanup:504 - Application cleanup completed
+2025-08-26 15:57:42 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 15:57:42 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 15:57:46 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 15:57:46 - MediaController - ERROR - _safe_init_controller:216 - Spotify controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 15:57:46 - MediaController - ERROR - _safe_init_controller:216 - TikTok controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 15:57:46 - MediaController - INFO - cleanup:504 - Application cleanup completed
+2025-08-26 16:19:13 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 16:19:13 - MediaController - INFO - run:584 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 16:19:47 - MediaController - ERROR - _safe_init_controller:223 - YouTube controller initialization failed: WebDriver setup failed: [WinError 193] %1 is not a valid Win32 application
+2025-08-26 16:20:34 - MediaController - ERROR - execute_gesture_action:314 - Error executing peace_sign on youtube: 'NoneType' object has no attribute 'next_track'
+2025-08-26 16:20:36 - MediaController - ERROR - execute_gesture_action:314 - Error executing point_up on youtube: 'NoneType' object has no attribute 'previous_track'
+2025-08-26 16:20:40 - MediaController - INFO - cleanup:579 - Application cleanup completed
+2025-08-26 16:45:15 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 16:45:15 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 16:45:27 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 16:45:27 - MediaController - ERROR - _safe_init_controller:216 - Spotify controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 16:45:27 - MediaController - ERROR - _safe_init_controller:216 - TikTok controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 16:45:27 - MediaController - INFO - cleanup:504 - Application cleanup completed
+2025-08-26 20:08:46 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-26 20:08:46 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-26 20:08:52 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 20:08:52 - MediaController - ERROR - _safe_init_controller:216 - Spotify controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 20:08:52 - MediaController - ERROR - _safe_init_controller:216 - TikTok controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-26 20:08:52 - MediaController - INFO - cleanup:504 - Application cleanup completed
+2025-08-27 00:25:20 - MediaController - INFO - setup_logger:81 - Logging initialized. Log file: logs\app.log
+2025-08-27 00:25:20 - MediaController - INFO - run:509 - Starting Hand Tracking Media Controller v2.0
+2025-08-27 00:25:29 - MediaController - ERROR - _safe_init_controller:216 - YouTube controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-27 00:25:29 - MediaController - ERROR - _safe_init_controller:216 - Spotify controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-27 00:25:29 - MediaController - ERROR - _safe_init_controller:216 - TikTok controller initialization failed: BaseMediaController.__init__() got an unexpected keyword argument 'timeout'
+2025-08-27 00:25:29 - MediaController - INFO - cleanup:504 - Application cleanup completed

@@ -1,0 +1,205 @@
+2025-08-28 01:58:52,027 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 02:12:19,661 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 02:13:40,843 - MediaController - WARNING - YouTube controller timed out
+2025-08-28 02:15:08,844 - MediaController - WARNING - Method previous_track not found in youtube
+2025-08-28 02:16:45,958 - MediaController - INFO - Closed youtube controller
+2025-08-28 02:16:45,958 - MediaController - INFO - Application cleanup completed
+2025-08-28 02:17:56,928 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 02:20:23,748 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:20:31,298 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:20:46,395 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:20:58,374 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:21:01,394 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:21:12,759 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 02:21:34,060 - MediaController - INFO - Closed youtube controller
+2025-08-28 02:21:34,060 - MediaController - INFO - Application cleanup completed
+2025-08-28 16:48:24,210 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 16:50:10,780 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:50:13,782 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:50:15,336 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:50:18,379 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:50:22,981 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:50:29,772 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:50:46,206 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:50:50,835 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:50:52,357 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:00,947 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:05,479 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:10,108 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:13,147 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:16,307 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:17,789 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:20,870 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:23,928 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:27,005 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:30,026 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:33,134 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:34,647 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:51:42,833 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:51:45,908 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:51:57,493 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:51:59,518 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 16:52:01,066 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:06,917 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:52:12,971 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:14,566 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:52:16,073 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:23,451 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:52:26,515 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:52:28,072 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:31,164 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:52:37,721 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:39,275 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:52:40,843 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:42,337 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:52:43,888 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:52:54,607 - MediaController - INFO - Closed youtube controller
+2025-08-28 16:52:54,608 - MediaController - INFO - Application cleanup completed
+2025-08-28 16:53:11,195 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 16:55:17,051 - MediaController - INFO - Closed youtube controller
+2025-08-28 16:55:17,051 - MediaController - INFO - Application cleanup completed
+2025-08-28 16:55:55,824 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 16:57:53,509 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:58:01,686 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:58:03,241 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:58:04,785 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:58:10,914 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:58:17,043 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:58:18,605 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:58:22,999 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:58:26,090 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:58:30,626 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:58:33,753 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:58:38,893 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:58:45,545 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:59:14,185 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:59:20,911 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 16:59:22,492 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:59:25,522 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:59:30,079 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:59:31,599 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:59:33,152 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:59:34,708 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 16:59:37,783 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 16:59:39,311 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:00:10,351 - MediaController - INFO - Closed youtube controller
+2025-08-28 17:00:10,351 - MediaController - INFO - Application cleanup completed
+2025-08-28 17:22:32,857 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 17:25:47,977 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:25:48,587 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:25:48,618 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:26:01,496 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:26:02,043 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:26:02,068 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:26:04,559 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:26:05,114 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:26:05,139 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:26:06,105 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:26:06,652 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:26:06,672 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:26:18,509 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:26:19,062 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:26:19,078 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:26:22,154 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:26:22,701 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:26:22,748 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:26:25,208 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:26:25,755 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:26:25,779 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:26:28,241 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:26:28,790 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:26:28,817 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:26:43,470 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:26:44,017 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:26:44,040 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:26:48,044 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:26:48,595 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:26:48,631 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:26:57,186 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 17:26:57,736 - MediaController - INFO - ⏸️ PAUSE sent to spotify
+2025-08-28 17:26:57,783 - MediaController - INFO - ⏸️ PAUSE sent to tiktok
+2025-08-28 17:27:00,281 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 17:27:00,832 - MediaController - INFO - ▶️ PLAY sent to spotify
+2025-08-28 17:27:00,858 - MediaController - INFO - ▶️ PLAY sent to tiktok
+2025-08-28 17:27:13,210 - MediaController - INFO - Closed youtube controller
+2025-08-28 17:27:21,051 - MediaController - INFO - Closed spotify controller
+2025-08-28 17:27:28,831 - MediaController - INFO - Closed tiktok controller
+2025-08-28 17:27:28,831 - MediaController - INFO - Application cleanup completed
+2025-08-28 23:23:40,446 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:24:11,234 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:25:41,266 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:25:42,786 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:25:45,878 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:25:48,933 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:25:52,009 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:25:57,124 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 23:25:59,764 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:26:03,277 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 23:26:05,835 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:26:14,872 - MediaController - INFO - ⏮️ PREVIOUS sent to youtube
+2025-08-28 23:26:25,364 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:26:26,929 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:26:29,944 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:26:31,491 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:26:33,035 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:26:34,564 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:26:37,635 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:26:42,006 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:26:57,580 - MediaController - INFO - Closed youtube controller
+2025-08-28 23:26:57,582 - MediaController - INFO - Application cleanup completed
+2025-08-28 23:44:36,038 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:46:16,371 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:46:19,365 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:46:20,911 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:46:22,433 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:46:24,005 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:46:25,527 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:46:27,104 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:46:28,645 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:46:30,207 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:46:31,760 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:46:40,950 - MediaController - INFO - Closed youtube controller
+2025-08-28 23:46:40,953 - MediaController - INFO - Application cleanup completed
+2025-08-28 23:47:28,917 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:49:04,833 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:49:07,864 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:49:09,414 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:49:11,003 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:49:12,532 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:49:14,095 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:49:15,629 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:49:17,183 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:49:18,756 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:49:20,315 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:49:21,885 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:49:23,396 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:49:35,397 - MediaController - INFO - Closed youtube controller
+2025-08-28 23:49:35,397 - MediaController - INFO - Application cleanup completed
+2025-08-28 23:52:51,775 - MediaController - INFO - Starting Hand Tracking Media Controller v2.1
+2025-08-28 23:54:22,721 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:54:24,234 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:54:25,782 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:54:33,384 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:54:39,464 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:54:41,074 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:54:44,145 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:54:45,703 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:54:52,251 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:54:53,038 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:54:56,151 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:54:57,652 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:54:59,189 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:04,271 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:07,384 - MediaController - INFO - 🔊 VOLUME UP sent to youtube
+2025-08-28 23:55:11,203 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:14,631 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:16,152 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:27,074 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:28,622 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:33,219 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:36,321 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:37,837 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:39,383 - MediaController - INFO - ⏸️ PAUSE sent to youtube
+2025-08-28 23:55:40,936 - MediaController - INFO - ▶️ PLAY sent to youtube
+2025-08-28 23:55:52,420 - MediaController - INFO - Closed youtube controller
+2025-08-28 23:55:52,421 - MediaController - INFO - Application cleanup completed
